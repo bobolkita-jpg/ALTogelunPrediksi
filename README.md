@@ -1,0 +1,2 @@
+# ALTogelunPrediksi
+Aplikasi Prediksi Angka
