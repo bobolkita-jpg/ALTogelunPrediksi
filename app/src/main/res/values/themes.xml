@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Material3.DayNight" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#1E6091</item>
+        <item name="colorPrimaryDark">#0D1B2A</item>
+        <item name="colorAccent">#FFD700</item>
+    </style>
+</resources>
